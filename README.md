@@ -36,3 +36,4 @@ La herramienta desarrollada permite:
 ```bash
 # Opcional (TheSportsDB no requiere autenticación)
 export SPORTSDB_KEY="tu_api_key_si_la_requiriera"
+## 📅 Fecha de entrega: Tue 19 May 2026 09:41:32 PM UTC
