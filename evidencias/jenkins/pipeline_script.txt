@@ -1,0 +1,11 @@
+node {
+    stage('Preparation') {
+        catchError(buildResult: 'SUCCESS') {
+            sh 'docker stop evaluacion2_container || true'
+            sh 'docker rm evaluacion2_container || true'
+        }
+    }
+    stage('Build') {
+        build 'BuildAppJob'
+    }
+}

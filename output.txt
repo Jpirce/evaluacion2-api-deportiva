@@ -1,0 +1,54 @@
+============================================================
+🏆 EVALUACIÓN 2 - CONSULTA API DEPORTIVA (TheSportsDB)
+📅 Fecha y hora: 2026-05-19 05:43:03.847197
+🔑 Sin API Key requerida
+============================================================
+
+📡 1. Consultando ligas de fútbol...
+   ✅ Conexión exitosa
+
+🏆 LIGA SELECCIONADA:
+   • Nombre: English Premier League
+   • País: N/A
+   • Deporte: Soccer
+   • Alternativo: N/A
+   • ID Liga: 4328
+
+📋 2. Consultando equipos de English Premier League...
+   ✅ 24 equipos encontrados. Mostrando 3:
+
+   1. Bolton Wanderers
+      • Estadio: Toughsheet Community Stadium
+      • Fundado: 1874
+      • Ciudad: Horwich, Bolton, England
+      • Capacidad: 28723
+
+   2. Wigan Athletic
+      • Estadio: The Brick Community Stadium
+      • Fundado: 1932
+      • Ciudad: Wigan, Lancashire, England
+      • Capacidad: 25138
+
+   3. Blackpool
+      • Estadio: Bloomfield Road
+      • Fundado: 1887
+      • Ciudad: Seasiders Way, Blackpool, England
+      • Capacidad: 17338
+
+⚽ 3. Jugador representativo...
+   🎮 Amario Cozier-Duberry (de Bolton Wanderers)
+      • Nacionalidad: England
+      • Posición: Midfielder
+      • Dorsal: 19
+      • Nacimiento: 2005-05-29
+      • Altura: 170 cm
+      • Peso: 126 lbs
+============================================================
+✅ CONSULTA FINALIZADA CON ÉXITO
+📊 RESUMEN DE DATOS EXTRAÍDOS:
+   • Ligas de fútbol disponibles: 10
+   • Liga seleccionada: English Premier League
+   • Equipos encontrados: 24
+   • Campos por equipo: 5 (nombre, estadio, fundación, ciudad, capacidad)
+   • Estado: Consulta completada
+============================================================
