@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos sensibles
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
